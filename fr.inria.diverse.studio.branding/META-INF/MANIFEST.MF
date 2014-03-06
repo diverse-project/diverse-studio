@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DiverSE Studio
+Bundle-SymbolicName: fr.inria.diverse.studio.branding;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: IRISA/INRIA
+Bundle-Localization: plugin
