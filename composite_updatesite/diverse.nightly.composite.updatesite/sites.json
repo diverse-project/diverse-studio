@@ -1,0 +1,13 @@
+{
+    
+    "kermeta2": [
+        "https://ci.inria.fr/kermeta2/job/org.kermeta.language.site/lastSuccessfulBuild/artifact/org/kermeta/language/org.kermeta.language.site/target/updatesite/"
+        ],
+    "kermeta3": [
+        "https://ci.inria.fr/k3al/job/k3.eclipse/lastSuccessfulBuild/artifact/k3.eclipse/fr.inria.diverse.k3.p2updatesite/target/site/"
+        ],
+    "kevoree": [
+        "http://coreff5.istic.univ-rennes1.fr/site/"
+        ]
+
+}
