@@ -47,14 +47,11 @@
    <vm>
    </vm>
 
-
    <plugins>
    </plugins>
 
    <features>
-      <feature id="org.eclipse.emf.ecoretools.design"/>
       <feature id="org.eclipse.emf.ecoretools.registration.feature"/>
-      <feature id="org.eclipse.emf.ecoretools"/>
       <feature id="org.eclipse.xtend.sdk"/>
       <feature id="org.eclipse.xtend.m2e"/>
       <feature id="org.eclipse.epp.mpc"/>

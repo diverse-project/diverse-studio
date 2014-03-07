@@ -19,12 +19,8 @@
 
    <requires>
       <import feature="org.eclipse.emf.ecoretools.registration.feature" version="0.1.1" match="greaterOrEqual"/>
-      <import feature="org.eclipse.m2m.qvt.oml.sdk" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.xtext.sdk" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.xtend.sdk" version="2.4.2.v201306120542" match="greaterOrEqual"/>
-      <import feature="org.eclipse.ocl.all.sdk" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.emf.ecoretools.design" version="0.0.0" match="greaterOrEqual"/>
       <import feature="fr.inria.diverse.k3.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="KevoreeEclipsePluginFeature" version="0.0.0" match="greaterOrEqual"/>
    </requires>
 
    <plugin
