@@ -1,0 +1,4 @@
+This is the list of the update sites used to build the DiverSE studio
+- diverse.platform.composite, contains the updates sites of the platform (eclipse, thirdparty tools) they are supposed to point to stable versions.
+- diverse.nightly.composite, contains the update sites of the possibly UNSTABLE versions of the components. They are used to be able to work wich the very latest version of each component in a nightly build.
+- diverse.composite, contains the update sites of the STABLE versions of the components. Components referenced here must have been promoted and archived for traceability (tagged in git, etc).
