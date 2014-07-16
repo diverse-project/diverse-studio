@@ -22,7 +22,7 @@
       <vmArgsMac>-XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts</vmArgsMac>
    </launcherArgs>
 
-   <windowImages i16="/fr.inria.diverse.studio.branding/images/icons/Studio/png/IconeGemocStudio_16x16x32.png" i32="/fr.inria.diverse.studio.branding/images/icons/Studio-text/png/IconeGemocStudio-text_32x32x32.png" i48="/fr.inria.diverse.studio.branding/images/icons/Studio-text/png/IconeGemocStudio-text_48x48x32.png" i64="/fr.inria.diverse.studio.branding/images/icons/Studio-text/png/IconeGemocStudio-text_64x64x32.png" i128="/fr.inria.diverse.studio.branding/images/icons/Studio-text/png/IconeGemocStudio-text_128x128x32.png"/>
+   <windowImages i16="/fr.inria.diverse.studio.branding/images/icons/DiverSE_icon_16x16x32.png" i32="/fr.inria.diverse.studio.branding/images/icons/DiverSE_icon_32x32x32.png" i48="/fr.inria.diverse.studio.branding/images/icons/DiverSE_icon_48x48x32.png" i64="/fr.inria.diverse.studio.branding/images/icons/DiverSE_icon_64x64x32.png" i128="/fr.inria.diverse.studio.branding/images/icons/DiverSE_icon_128x128x32.png"/>
 
    <splash
       location="fr.inria.diverse.studio.branding"
@@ -33,13 +33,13 @@
       <solaris/>
       <win useIco="false">
          <bmp
-            winSmallHigh="/images/icons/Studio/bmp/IconeGemocStudio_16x16x32.bmp"
-            winSmallLow="/images/icons/Studio/bmp/IconeGemocStudio_16x16x8.bmp"
-            winMediumHigh="/images/icons/Studio-text/bmp/IconeGemocStudio-text_32x32x32.bmp"
-            winMediumLow="/images/icons/Studio-text/bmp/IconeGemocStudio-text_32x32x8.bmp"
-            winLargeHigh="/images/icons/Studio-text/bmp/IconeGemocStudio-text_48x48x32.bmp"
-            winLargeLow="/images/icons/Studio-text/bmp/IconeGemocStudio-text_48x48x8.bmp"
-            winExtraLargeHigh="/images/icons/Studio-text/bmp/IconeGemocStudio-text_256x256x32.bmp"/>
+            winSmallHigh="/images/icons/DiverSE_icon_16x16x32.bmp"
+            winSmallLow="/images/icons/DiverSE_icon_16x16x8.bmp"
+            winMediumHigh="/images/icons/DiverSE_icon_32x32x32.bmp"
+            winMediumLow="/images/icons/DiverSE_icon_32x32x8.bmp"
+            winLargeHigh="/images/icons/DiverSE_icon_48x48x32.bmp"
+            winLargeLow="/images/icons/DiverSE_icon_48x48x8.bmp"
+            winExtraLargeHigh="/images/icons/DiverSE_icon_256x256x32.bmp"/>
       </win>
    </launcher>
 
