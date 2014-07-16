@@ -28,8 +28,8 @@
       location="fr.inria.diverse.studio.branding"
       startupProgressRect="5,275,445,15" />
    <launcher name="eclipse">
-      <linux icon="/images/icons/Studio-text/xpm/IconeGemocStudio-text.xpm"/>
-      <macosx icon="/images/icons/Studio-text/icns/IconeGemocStudio-text.icns"/>
+      <linux icon="/images/icons/DiverSE_icon.xpm"/>
+      <macosx icon="/images/icons/DiverSE_icon.icns"/>
       <solaris/>
       <win useIco="false">
          <bmp
