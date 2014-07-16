@@ -5,9 +5,15 @@
         ],
     "kermeta3": [
         "https://ci.inria.fr/k3al/job/k3.eclipse/lastSuccessfulBuild/artifact/k3.eclipse/fr.inria.diverse.k3.p2updatesite/target/site/"
-        ],
+        ],    
     "kevoree": [
         "http://coreff5.istic.univ-rennes1.fr/site/"
+        ],
+    "kompren": [
+        "https://ci.inria.fr/kompren/job/fr.inria.diverse.kompren.manifestfirst_master/lastSuccessfulBuild/artifact/kompren-releng/fr.inria.diverse.kompren.p2updatesite/target/site/"
+        ],
+    "diverse-commons": [
+        "https://ci.inria.fr/diverse-commons/job/diverse-commons.eclipse.root/lastSuccessfulBuild/artifact/commons-eclipse/fr.inria.diverse.commons.eclipse.root/p2updatesite/target/repository/"
         ]
 
 }
