@@ -26,7 +26,7 @@
         <repository>
             <id>Target Platform</id>
             <layout>p2</layout>
-            <url>https://ci.inria.fr/diverse-commons/job/diverse-studio_composite_updatesite/lastSuccessfulBuild/artifact/composite_updatesite/diverse-studio.platform.composite.updatesite/update/</url>
+            <url>https://ci.inria.fr/diverse-commons/job/diverse-studio_composite_updatesite/lastSuccessfulBuild/artifact/composite_updatesite/diverse.platform.composite.updatesite/update/</url>
         </repository>
 	
         <!-- *****************************************
