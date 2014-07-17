@@ -43,7 +43,6 @@
       </win>
    </launcher>
 
-
    <vm>
    </vm>
 
@@ -51,10 +50,6 @@
    </plugins>
 
    <features>
-      <feature id="org.eclipse.emf.ecoretools.registration.feature"/>
-      <feature id="org.eclipse.xtend.sdk"/>
-      <feature id="org.eclipse.xtend.m2e"/>
-      <feature id="org.eclipse.epp.mpc"/>
       <feature id="fr.inria.diverse.studio.feature" version="1.0.0.qualifier"/>
       <feature id="fr.inria.diverse.studio.additions.feature" version="1.0.0.qualifier"/>
    </features>
