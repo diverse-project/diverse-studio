@@ -2,8 +2,8 @@
     "platform": [
         "http://download.eclipse.org/modeling/emf/emf/updates/2.9.x/",
         "http://download.eclipse.org/tools/orbit/downloads/drops/R20130517111416/repository/",
-        "http://download.eclipse.org/mpc/nightly",
-        "http://download.eclipse.org/releases/kepler"
+        "http://download.eclipse.org/mpc/luna",
+        "http://download.eclipse.org/releases/luna"
         ],
     "modeling-base": [
         "http://download.eclipse.org/modeling/mdt/ocl/updates/maintenance/4.1.2/M201401201522",
@@ -16,14 +16,11 @@
         "http://download.eclipse.org/modeling/emf/compare/updates/milestones/2.1/S201401220957",
         "http://download.eclipse.org/mmt/qvto/updates/releases/3.3.0"
         ],
-    "papyrus": [
-        "http://download.eclipse.org/modeling/mdt/papyrus/updates/milestones/0.10/SR2_RC1/main"
-	],
     "acceleo": [
         "http://download.eclipse.org/modeling/m2t/acceleo/updates/releases/3.4/R201309031307"
         ],
     "ecoretools": [
-        "http://download.eclipse.org/modeling/emft/ecoretools/updates/milestones/2.0.0M4/luna"
+        "http://download.eclipse.org/ecoretools/updates/releases/2.0.1/luna/"
         ],
      "xtext": [
          "http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/"
