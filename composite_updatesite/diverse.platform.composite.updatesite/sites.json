@@ -26,7 +26,8 @@
          "http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases/"
          ],
     "devtools": [
-        "http://community.polarion.com/projects/subversive/download/eclipse/3.0/kepler-site/",
-        "http://download.eclipse.org/egit/updates"
+    	"http://community.polarion.com/projects/subversive/download/eclipse/4.0/luna-site/",
+        "http://download.eclipse.org/egit/updates",
+        "http://repo1.maven.org/maven2/.m2e/connectors/m2eclipse-tycho/0.7.0/N/0.7.0.201309291400/"
         ]
 }

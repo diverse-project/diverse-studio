@@ -38,9 +38,6 @@ thirdparties) that are usually useful in DiverSE Studio.
       <import feature="org.eclipse.team.svn" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.xtext.sdk" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.xtend.sdk" version="2.4.2.v201306120542" match="greaterOrEqual"/>
-      <import feature="org.polarion.eclipse.team.svn.connector" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.polarion.eclipse.team.svn.connector.svnkit16" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.polarion.eclipse.team.svn.connector.svnkit17" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.xtend.m2e" version="2.4.3.v201309030823" match="greaterOrEqual"/>
       <import feature="org.eclipse.epp.mpc" version="1.3.0.v20140521-1821" match="greaterOrEqual"/>
    </requires>

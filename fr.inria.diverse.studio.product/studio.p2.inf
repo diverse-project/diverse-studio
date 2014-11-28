@@ -1,6 +1,6 @@
 instructions.configure=\
-addRepository(type:0,location:http${#58}//download.eclipse.org/releases/kepler,name:Kepler);\
-addRepository(type:1,location:http${#58}//download.eclipse.org/releases/kepler,name:Kepler);\
+addRepository(type:0,location:http${#58}//download.eclipse.org/releases/luna,name:Luna);\
+addRepository(type:1,location:http${#58}//download.eclipse.org/releases/luna,name:Luna);\
 addRepository(type:0,location:http${#58}//www.kermeta.org/k3/update/,name:Kermeta 3);\
 addRepository(type:1,location:http${#58}//www.kermeta.org/k3/update/,name:Kermeta 3);\
 addRepository(type:0,location:http${#58}//coreff5.istic.univ-rennes1.fr/site/,name:Kevoree);\
