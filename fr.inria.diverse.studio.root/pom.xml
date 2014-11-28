@@ -8,7 +8,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <tycho-version>0.18.1</tycho-version>
+        <tycho-version>0.21.0</tycho-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
@@ -36,7 +36,8 @@
 		<repository>
             <id>DiverSE Studio Tools (stable)</id>
             <layout>p2</layout>
-            <url>https://ci.inria.fr/diverse-commons/job/diverse-studio_composite_updatesite/lastSuccessfulBuild/artifact/composite_updatesite/diverse.composite.updatesite/update/</url>
+            <!-- <url>https://ci.inria.fr/diverse-commons/job/diverse-studio_composite_updatesite/lastSuccessfulBuild/artifact/composite_updatesite/diverse.composite.updatesite/update/</url>-->
+            <url>https://ci.inria.fr/diverse-commons/job/diverse-studio_composite_updatesite/lastSuccessfulBuild/artifact/composite_updatesite/diverse.nightly.composite.updatesite/update/</url>
         </repository>
     </repositories>
 
