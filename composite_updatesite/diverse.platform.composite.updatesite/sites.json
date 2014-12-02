@@ -1,7 +1,5 @@
 {
     "platform": [
-        "http://download.eclipse.org/modeling/emf/emf/updates/2.9.x/",
-        "http://download.eclipse.org/tools/orbit/downloads/drops/R20130517111416/repository/",
         "http://download.eclipse.org/mpc/luna",
         "http://download.eclipse.org/releases/luna"
         ],
