@@ -36,8 +36,8 @@
 		<repository>
             <id>DiverSE Studio Tools (stable)</id>
             <layout>p2</layout>
-            <!-- <url>https://ci.inria.fr/diverse-commons/job/diverse-studio_composite_updatesite/lastSuccessfulBuild/artifact/composite_updatesite/diverse.composite.updatesite/update/</url>-->
-            <url>https://ci.inria.fr/diverse-commons/job/diverse-studio_composite_updatesite/lastSuccessfulBuild/artifact/composite_updatesite/diverse.nightly.composite.updatesite/update/</url>
+            <url>https://ci.inria.fr/diverse-commons/job/diverse-studio_composite_updatesite/lastSuccessfulBuild/artifact/composite_updatesite/diverse.composite.updatesite/update/</url>
+            <!-- <url>https://ci.inria.fr/diverse-commons/job/diverse-studio_composite_updatesite/lastSuccessfulBuild/artifact/composite_updatesite/diverse.nightly.composite.updatesite/update/</url>-->
         </repository>
     </repositories>
 
