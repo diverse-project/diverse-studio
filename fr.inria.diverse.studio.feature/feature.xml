@@ -20,9 +20,39 @@
    <requires>
       <import feature="org.eclipse.emf.ecoretools.registration.feature" version="0.1.2" match="greaterOrEqual"/>
       <import feature="fr.inria.diverse.commons.eclipse.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="fr.inria.diverse.commons.provisionner4eclipse.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="fr.inria.diverse.melange.sdk" version="0.0.0" match="greaterOrEqual"/>      
       <import feature="fr.inria.diverse.k3.feature" version="0.0.0" match="greaterOrEqual"/>
       <import feature="KevoreeEclipsePluginFeature" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="fr.inria.diverse.kompren.feature" version="0.0.0" match="greaterOrEqual"/>
+      <!-- <import feature="fr.inria.diverse.kompren.feature" version="0.0.0" match="greaterOrEqual"/> -->
+      
+      
+      <import feature="org.gemoc.commons.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.gemoc.gemoc_commons.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.gemoc.modeldebugging.framework.commons.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.gemoc.modeldebugging.xdsmlframework.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.gemoc.modeldebugging.executionframework.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.gemoc.execution.sequential.javaxdsml.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.gemoc.modeldebugging.trace.commons.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.gemoc.modeldebugging.trace.generator.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.gemoc.modeldebugging.trace.manager.feature" version="0.0.0" match="greaterOrEqual"/>      
+      <import feature="org.gemoc.official_samples.deployers.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="fr.obeo.dsl.debug.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="fr.obeo.dsl.debug.ui.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="fr.obeo.dsl.debug.sirius.ui.feature" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.sirius.doc.feature" version="1.0.0.201403121231" match="greaterOrEqual"/>
+      <import feature="org.eclipse.sirius.runtime" version="1.0.0.201403121231" match="greaterOrEqual"/>
+      <import feature="org.eclipse.sirius.runtime.acceleo" version="1.0.0.201403121231" match="greaterOrEqual"/>
+      <import feature="org.eclipse.sirius.runtime.ide.eef" version="1.0.0.201403121231" match="greaterOrEqual"/>
+      <import feature="org.eclipse.sirius.runtime.ide.ui" version="1.0.0.201403121231" match="greaterOrEqual"/>
+      <import feature="org.eclipse.sirius.runtime.ide.ui.acceleo" version="1.0.0.201403121231" match="greaterOrEqual"/>
+      <import feature="org.eclipse.sirius.runtime.ide.xtext" version="1.0.0.201403121231" match="greaterOrEqual"/>
+      <import feature="org.eclipse.sirius.runtime.ocl" version="1.0.0.201403121231" match="greaterOrEqual"/>
+      <import feature="org.eclipse.sirius.specifier.ide.ui" version="1.0.0.201403121231" match="greaterOrEqual"/>
+      <import feature="org.eclipse.sirius.specifier.ide.ui.acceleo" version="1.0.0.201403121231" match="greaterOrEqual"/>
+      
+      
+      
    </requires>
 
    <plugin

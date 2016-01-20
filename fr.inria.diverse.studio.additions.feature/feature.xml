@@ -20,26 +20,28 @@ thirdparties) that are usually useful in DiverSE Studio.
    <requires>
       <import feature="org.eclipse.egit" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.egit.mylyn" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.emf.query.sdk" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.jgit" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.m2e.feature" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.m2e.logback.feature" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.mylyn.context_feature" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.mylyn.github.feature" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.mylyn.monitor" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.mylyn.team_feature" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.mylyn_feature" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.mylyn.wikitext_feature" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.mylyn.hudson" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.sonatype.tycho.m2e.feature" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.ocl.all.sdk" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.sdk" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.team.svn.mylyn" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.team.svn.resource.ignore.rules.jdt" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.team.svn" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.polarion.eclipse.team.svn.connector.svnkit18" version="0.0.0"/>
       <import feature="org.eclipse.xtext.sdk" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.xtend.sdk" version="0.0.0" match="greaterOrEqual"/>
-      <import feature="org.eclipse.xtend.m2e" version="0.0.0" match="greaterOrEqual"/>
       <import feature="org.eclipse.epp.mpc" version="1.3.0.v20140521-1821" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.query.sdk" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.compare" version="2.0.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.compare.source" version="2.0.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.compare.ide.ui" version="2.0.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.emf.diffmerge.sdk.feature" version="0.0.0" match="greaterOrEqual"/>      
+      <import feature="org.eclipse.emf.ecoretools.sdk" version="2.0.0.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.e4.rcp" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.ajdt" version="0.0.0" match="greaterOrEqual"/>
+      <import feature="org.eclipse.fx.ide.basic.feature" version="2.1.0.201508240705"/>
+      <import feature="org.eclipse.fx.ide.pde.feature" version="2.1.0.201508240705"/>
    </requires>
 
 </feature>
