@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?pde version="3.5"?>
 
-<product name="DiverSE studio" uid="diverse_studio" id="fr.inria.diverse.studio.branding.diverse_studio" application="org.eclipse.ui.ide.workbench" version="1.0.0.qualifier" useFeatures="true" includeLaunchers="true">
+<product name="DiverSE studio" uid="diverse_studio" id="fr.inria.diverse.studio.branding.diverse_studio" application="org.eclipse.ui.ide.workbench" version="2.0.0.qualifier" useFeatures="true" includeLaunchers="true">
 
    <aboutInfo>
       <image path="/fr.inria.diverse.studio.branding/images/StudioAboutImage.png"/>
@@ -15,11 +15,14 @@
 
    <launcherArgs>
       <programArgs>--launcher.XXMaxPermSize
-256m</programArgs>
+256m
+      </programArgs>
       <vmArgs>-Xms256m
 -Xmx1024m
--XX:MaxPermSize=256m</vmArgs>
-      <vmArgsMac>-XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts</vmArgsMac>
+-XX:MaxPermSize=256m
+      </vmArgs>
+      <vmArgsMac>-XstartOnFirstThread -Dorg.eclipse.swt.internal.carbon.smallFonts
+      </vmArgsMac>
    </launcherArgs>
 
    <windowImages i16="/fr.inria.diverse.studio.branding/images/icons/DiverSE_icon_16x16x32.png" i32="/fr.inria.diverse.studio.branding/images/icons/DiverSE_icon_32x32x32.png" i48="/fr.inria.diverse.studio.branding/images/icons/DiverSE_icon_48x48x32.png" i64="/fr.inria.diverse.studio.branding/images/icons/DiverSE_icon_64x64x32.png" i128="/fr.inria.diverse.studio.branding/images/icons/DiverSE_icon_128x128x32.png"/>
@@ -50,8 +53,8 @@
    </plugins>
 
    <features>
-      <feature id="fr.inria.diverse.studio.feature" version="1.0.0.qualifier"/>
-      <feature id="fr.inria.diverse.studio.additions.feature" version="1.0.0.qualifier"/>
+      <feature id="fr.inria.diverse.studio.feature" version="2.0.0.qualifier"/>
+      <feature id="fr.inria.diverse.studio.additions.feature" version="2.0.0.qualifier"/>
    </features>
 
    <configurations>
